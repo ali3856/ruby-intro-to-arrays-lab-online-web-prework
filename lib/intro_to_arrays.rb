@@ -29,6 +29,8 @@ def first_element_with_array_methods(first_country)
 end
 
 def last_element_with_array_methods(last_country)
+  south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  first_country = south_east_asia.last
 end
 
 def length_of_array(length)
