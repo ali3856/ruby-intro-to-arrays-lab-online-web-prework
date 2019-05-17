@@ -10,7 +10,7 @@ end
 
 def first_element(my_first_element)
   taylor_swift = ["welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  my_first_element = taylor_swift[0]
+  my_first_element = taylor_swift.at[0]
 end
 
 def third_element(my_third_element)
