@@ -20,7 +20,7 @@ end
 
 def last_element(my_last_element)
   taylor_swift = ["welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  my_first_element = taylor_swift[-1]
+  my_last_element = taylor_swift[-1]
 end
 
 def first_element_with_array_methods(first_country)
